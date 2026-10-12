@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+qiskit
+qiskit-optimization
+qiskit-algorithms
+matplotlib
